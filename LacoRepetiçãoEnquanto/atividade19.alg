@@ -1,7 +1,7 @@
 algoritmo "atividade20"
 
 var
-valorDigitado : real
+valorDigitado : inteiro
 soma : real
 
 
